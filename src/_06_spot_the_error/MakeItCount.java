@@ -10,9 +10,9 @@ public class MakeItCount {
 	// CODE.
 
 	public static void main(String[] args) {
-		int number = 0;
-		for (int i=1; i<4; i++) {
-			System.out.println(number);
+		int number = 3;
+		for (int i=0; i<3; i++) {
+			System.out.println(i+1);
 		}
 	}
 }
